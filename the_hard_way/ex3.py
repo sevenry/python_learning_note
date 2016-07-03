@@ -1,0 +1,11 @@
+print("i will now count my chickens:")
+print("hens",26+30/6)
+print("roosters",float(100-25*3%4))
+print("now i will count the eggs:")
+print(float(3+2+1-5+4%2-1/4+6))
+print("is it true that 3+2<5-7?")
+print(3+2<5-7)
+print("what is 3+2?",3+2)
+print("whta is 5-7?",5-7)
+print("is it great?",5>=-2)#输出端是 true/fals 的回答。这里是判断作用？
+print("is it great?",5<=-2)
